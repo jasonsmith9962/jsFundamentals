@@ -32,3 +32,6 @@ console.log(2 <= 3); //true
 
 //  'Or' operator
 2 || 3;
+
+let cars;
+console.log(cars);
